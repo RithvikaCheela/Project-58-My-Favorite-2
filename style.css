@@ -82,6 +82,16 @@ p {
     z-index: 10;
     cursor: pointer;
 }
+.links{
+    float: left;
+    color: blue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: fantasy;
+    font-size: 20px;
+}
 
 .links:hover {
     background-color: crimson;
